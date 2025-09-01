@@ -1,0 +1,5 @@
+{
+  "name": "ProxyLink Browser",
+  "description": "A web application to browse links with specified proxies and user agents. This app simulates the process as direct proxy/user-agent manipulation is not possible from the browser.",
+  "requestFramePermissions": []
+}
